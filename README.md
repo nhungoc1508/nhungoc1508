@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🌱 I’m currently learning Swift, UI design
+- 🌱 I recently started learning Swift and UI design. I'm also interested in machine learning and web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ngocnhoang/), [ngoc.hoang@nyu.edu](mailto:ngoc.hoang@nyu.edu)
 - 😄 Pronouns: she/her/hers
