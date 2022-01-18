@@ -9,3 +9,5 @@
 - 🌱 I recently started learning Swift and UI design. I'm also interested in machine learning and web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ngocnhoang/), [ngoc.hoang@nyu.edu](mailto:ngoc.hoang@nyu.edu)
 - 😄 Pronouns: she/her/hers
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhungoc1508&layout=compact&langs_count=8)](https://github.com/nhungoc1508/github-readme-stats)
