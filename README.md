@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🌱 I recently started learning Swift and UI design. I'm also interested in machine learning and web development.
+- 🌱 I'm a CS graduate interested in machine learning, big data, and web development. I'm currently a software engineer at LG Electronics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ngocnhoang/), [ngoc.hoang@nyu.edu](mailto:ngoc.hoang@nyu.edu)
 - 😄 Pronouns: she/her/hers
 
