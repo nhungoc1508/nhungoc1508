@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🌱 I'm a CS graduate interested in machine learning, big data, and web development. I'm currently a software engineer at LG Electronics.
+- 🌱 I'm a CS graduate interested in machine learning, big data, and web development. I'm currently a Master student pursuing the Erasmus Mundus Joint Master in Big Data Management and Analytics (BDMA). I used to work as a software engineer at LG Electronics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ngocnhoang/), [ngoc.hoang@nyu.edu](mailto:ngoc.hoang@nyu.edu)
 - 😄 Pronouns: she/her/hers
 
