@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 -->
 - 🌱 I'm a CS graduate interested in machine learning, big data, and web development. I'm currently a Master student pursuing the Erasmus Mundus Joint Master in Big Data Management and Analytics (BDMA). I used to work as a software engineer at LG Electronics.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ngocnhoang/), [ngoc.hoang@nyu.edu](mailto:ngoc.hoang@nyu.edu)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ngocnhoang/), [ngoc.hoang@nyu.edu](mailto:ngoc.hoang@nyu.edu), [nhu.hoang@ulb.be](mailto:nhu.hoang@ulb.be)
 - 😄 Pronouns: she/her/hers
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhungoc1508&layout=compact&langs_count=8)](https://github.com/nhungoc1508/github-readme-stats)
